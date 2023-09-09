@@ -1,6 +1,5 @@
 <h1 align="center">Alexandria</h1>
 <div align="center">A minimalistic cross platform eBook reader, built with Tauri ❤️ Epub.js</div>
-<div align="center"><a href="https://github.com/btpf/Alexandria/releases">Download</a> | <a href="/">Website</a> |  <a href="/docs/FAQ.md">FAQ</a></div>
 <br>
 
 <div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/Alexandria/assets/61168382/6ff644fa-b4bf-4a8b-bc85-c1f44c21b2a3"> </div>
@@ -49,9 +48,5 @@
 
 ---
 
-## Credits
-[johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Inspiration for building project, code snippets, and FictionBook + Comicbook Support  
-[futurepress/epub.js](https://github.com/futurepress/epub.js) - Providing foundation for project  
-[bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi) - Providing Kindle Format Support  
 
 <h3><a href="/docs/Build%20Instructions.md">Build Instructions</a></h3>
